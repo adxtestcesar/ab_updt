@@ -4,7 +4,7 @@
     <silentUpdate value="true"/>
 
     <!--Internal server-->
-    <link name="https://sites.google.com/site/brappstest/hc/apps/brapps/bcb/automated/version_TAG.xml"/>
+    <link name="https://github.com/adxtestcesar/ab_updt/raw/main/valid/version_TAG.xml"/>
 
     <!--Motorola server  -->
     <!--<link name="https://sites.google.com/site/brappstest/hc/apps/brapps/bcb/automated/version_TAG.xml"/>-->
