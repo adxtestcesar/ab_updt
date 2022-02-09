@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<main>
+
+    <silentUpdate value="true"/>
+
+    <!--Internal server-->
+    <link name="https://sites.google.com/site/brappstest/hc/apps/brapps/bcb/automated/version_TAG.xml"/>
+
+    <!--Motorola server  -->
+    <!--<link name="https://sites.google.com/site/brappstest/hc/apps/brapps/bcb/automated/version_TAG.xml"/>-->
+
+    <carrier name="TIM" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_tim_hd.zip" version="5.4">
+        <build name="timbr"/>
+
+        <plmn mcc="724" mnc="02"/>
+        <plmn mcc="724" mnc="03"/>
+        <plmn mcc="724" mnc="04"/>
+        <plmn mcc="724" mnc="08"/>
+    </carrier>
+
+    <carrier name="Claro" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_claro_hd.zip" version="5.4">
+        <build name="amxbr"/>
+
+        <plmn mcc="724" mnc="05"/>
+    </carrier>
+
+    <carrier name="Oi" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_oi_hd.zip" version="5.4">
+        <build name="oibr"/>
+
+        <plmn mcc="724" mnc="31"/>
+    </carrier>
+
+    <carrier name="retail" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_vivo_hd.zip" version="5.4">
+        <build name="retbr"/>
+        <build name="retail"/>
+        <build name="openbr"/>
+    </carrier>
+
+    <carrier name="Vivo" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_vivo_hd.zip" version="5.4">
+        <build name="tefbr"/>
+
+        <plmn mcc="724" mnc="06"/>
+        <plmn mcc="724" mnc="10"/>
+        <plmn mcc="724" mnc="11"/>
+        <plmn mcc="724" mnc="23"/>
+    </carrier>
+
+    <carrier name="TIGOCO" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_tigoco_hd.zip" version="5.4">
+        <build name="tigco"/>
+
+        <plmn mcc="732" mnc="103"/>
+    </carrier>
+    
+</main>
