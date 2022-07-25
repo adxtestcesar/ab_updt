@@ -30,7 +30,7 @@
         <plmn mcc="724" mnc="31"/>
     </carrier>
 
-    <carrier name="retail" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_vivo_hd.zip" version="5.4">
+    <carrier name="retail" path="https://github.com/adxtestcesar/ab_updt/raw/main/base/resources_retail_hd.zip" version="5.4">
         <build name="retbr"/>
         <build name="retail"/>
         <build name="openbr"/>
